@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/lab8.dir/Lab8/exp.cpp.o CMakeFiles/lab8.dir/Lab8/main.cpp.o CMakeFiles/lab8.dir/Lab8/parser.cpp.o CMakeFiles/lab8.dir/Lab8/scanner.cpp.o CMakeFiles/lab8.dir/Lab8/token.cpp.o CMakeFiles/lab8.dir/Lab8/visitor.cpp.o -o lab8 
